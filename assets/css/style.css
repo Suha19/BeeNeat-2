@@ -1,0 +1,173 @@
+body {
+    /* background-image: url('../images/header-image-2.jpg'); */
+    background-repeat: no-repeat, repeat;
+    background-size: 100% 100%;
+    overflow: auto;
+    z-index: -1px;
+    background-size: cover;
+    color: #750e02;
+}
+
+.navbar {
+    background-color: white;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.jumbotron {
+    background-image: url("../images/header-image-2.jpg");
+    background-size: cover;
+    color: #750e02;
+}
+
+a:active {
+    color: #750e02;
+}
+
+a:visited {
+    color: #750e02;
+}
+
+a:hover {
+    color: #750e02;
+}
+
+
+.header {
+    background-color: rgb(rgba(255, 0, 0, 0.418), green, blue);
+    margin-top: 30px;
+}
+
+#logo {
+    padding-bottom: 20px;
+}
+
+h2 {
+    color: #fc9a15;
+}
+
+p {
+    font-size: 1.25rem;
+}
+.text-container {
+    margin-top: 20px;
+}
+
+#form-display {
+    color: #750e02;
+    padding: 40px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+    display: inline-block;
+    text-align: left;
+}
+
+.or-text {
+    margin: 20px;
+}
+
+.card {
+    margin: 10px;
+    width: 100%;
+}
+
+.category-button {
+    background-color: #750e02;
+    color: #ffffff;
+}
+
+.category-area {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+.btn {
+    background-color: #750e02;
+    color: #ffffff;
+    width: 100px;
+}
+
+.btn:hover {
+    background-color: #bf5d02;
+    color: #fee85e;
+}
+
+#getstarted-btn {
+    background-color: #750e02;
+    color: #ffffff;
+    width: 200px;
+}
+
+#new-category-btn {
+    width: 15rem;
+}
+
+.create-button-div {
+    padding: 30px;
+}
+
+.social,
+#buttons {
+    margin: 50px;
+}
+
+#logout {
+    float: right;
+}
+
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: #750e02;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-top: solid #fee85e;
+    background-color: white;
+    text-align: center;
+
+}
+#map {
+    height: 100%;
+  }
+  /* Optional: Makes the sample page fill the window. */
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    
+  }
+  iframe, form{
+    margin:50px;
+  }
+
+.form-container {
+    position: relative;
+    width: 450px;
+    margin: 0 auto 100px;
+    margin-top: 40px;
+    padding: 30px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+
+#welcomeUser {
+    position: relative;
+    width: 450px;
+}
+
+.jumboTron {
+    position: fixed;
+    top: 0;
+    background: #fee85e;
+}
+#searchStorage{
+    margin:20px;
+  }
